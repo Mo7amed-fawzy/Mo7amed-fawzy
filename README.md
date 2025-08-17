@@ -57,6 +57,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mo7amed-Fawzy&theme=tokyo-night" />
 </p>
 
+<p align="center">
+  <!-- Badges for profile stats -->
+  <img src="https://img.shields.io/github/followers/Mo7amed-Fawzy?label=Followers&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/Mo7amed-Fawzy?label=Stars&style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=Mo7amed-Fawzy&style=for-the-badge&color=blue" />
+</p>
+
 ---
 
 <h2 align="center">🌱 Currently Learning & Fun Facts</h2>
