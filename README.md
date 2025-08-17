@@ -86,6 +86,31 @@
 
 ---
 
+<h2 align="center" style="background: linear-gradient(270deg, #6C63FF, #FF6C63, #6C63FF); background-size: 600% 600%; -webkit-background-clip: text; color: transparent; animation: gradient 8s ease infinite;">🏆 Trophies & Achievements</h2>
+
+<p align="center">
+  <!-- GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Mo7amed-Fawzy&theme=tokyonight&row=2&column=4" />
+</p>
+
+<p align="center" style="transition: transform 0.3s;">
+  <!-- Top Languages Badge -->
+  <img src="https://img.shields.io/github/languages/top/Mo7amed-Fawzy?style=for-the-badge&logo=github&color=6C63FF" 
+       onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+
+  <!-- Most Starred Repo Badge -->
+  <img src="https://img.shields.io/github/stars/Mo7amed-Fawzy?style=for-the-badge&logo=github&color=FF6C63" 
+       onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+
+  <!-- Contributions Badge -->
+  <img src="https://img.shields.io/github/commit-activity/m/Mo7amed-Fawzy?style=for-the-badge&color=00C853" 
+       onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+
+  <!-- Followers Badge -->
+  <img src="https://img.shields.io/github/followers/Mo7amed-Fawzy?style=for-the-badge&logo=github&color=FFD600" 
+       onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+</p>
+
+---
+
 ⭐️ From [Mo7amed-Fawzy](https://github.com/Mo7amed-Fawzy)
-
-
