@@ -12,20 +12,17 @@
 
 <h2 align="center">🌟 About Me</h2>
 <p align="center">
-  Passionate about building scalable apps with clean architecture.  
+  Passionate about building scalable apps with clean architecture.<br>
   Interested in AI 🤖, Mobile 📱, and Web 🌍.  
 </p>
 
 ---
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express,mongodb,firebase,supabase,flutter,dart,git,github,figma,xd,vscode,androidstudio" />
-</p>
-
-<p align="center">
-  <!-- Extra badges for stuff not in skillicons -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express,mongodb,firebase,supabase,flutter,dart,git,github,figma,xd,vscode,androidstudio" /><br><br>
+  
+  <!-- Extra badges -->
   <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
   <img src="https://img.shields.io/badge/API-0096D6?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/StateMgmt-6C63FF?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -42,7 +39,6 @@
 ---
 
 <h2 align="center">🚀 Featured Projects</h2>
-
 <p align="center">
   <a href="https://github.com/Mo7amed-Fawzy/ai-movie-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo7amed-Fawzy&repo=ai-movie-app&theme=tokyonight" />
@@ -56,22 +52,19 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mo7amed-Fawzy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mo7amed-Fawzy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo7amed-Fawzy&show_icons=true&theme=tokyonight&hide_border=true" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mo7amed-Fawzy&theme=tokyonight&hide_border=true" /><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mo7amed-Fawzy&theme=tokyo-night" />
 </p>
 
 ---
 
 <h2 align="center">🌱 Currently Learning & Fun Facts</h2>
-
-- 🌱 I’m currently learning **AI with Flutter**  
-- 💡 Fun fact: I debug faster with coffee ☕  
-- 🎯 2025 Goal: Build a cross-platform AI-powered app  
+<p align="center">
+  🌱 I’m currently learning <b>AI with Flutter</b><br>
+  💡 Fun fact: I debug faster with coffee ☕<br>
+  🎯 2025 Goal: Build a cross-platform AI-powered app
+</p>
 
 ---
 
