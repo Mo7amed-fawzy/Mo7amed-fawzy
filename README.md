@@ -61,8 +61,6 @@
   <!-- Badges for profile stats in one row -->
   <img src="https://img.shields.io/github/followers/Mo7amed-Fawzy?label=Followers&style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/stars/Mo7amed-Fawzy?label=Stars&style=for-the-badge&logo=github" />
-  <img src="https://badges.pufler.dev/commits/yearly/Mo7amed-Fawzy?style=for-the-badge&color=green" />
-  <img src="https://img.shields.io/github/repo-size/Mo7amed-Fawzy?style=for-the-badge&color=blue&label=Repos" />
   <img src="https://komarev.com/ghpvc/?username=Mo7amed-Fawzy&style=for-the-badge&color=blue" />
 </p>
 
@@ -79,8 +77,9 @@
 
 <h2 align="center">📫 Connect with Me</h2>
 <p align="center">
- [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/YOUR_USER_ID)  
-**Discord:** mohamed_fawzy_fd
+  <a href="https://discord.gg/yourserver" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
   <a href="https://wa.me/01157902453" target="_blank">
     <img src="https://skillicons.dev/icons?i=whatsapp" />
   </a>
@@ -94,7 +93,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-
 ---
 
 ⭐️ From [Mo7amed-Fawzy](https://github.com/Mo7amed-Fawzy)
