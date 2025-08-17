@@ -77,21 +77,13 @@
 
 <h2 align="center">📫 Connect with Me</h2>
 <p align="center">
-  <a href="https://discord.gg/yourserver" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <a href="https://wa.me/01157902453" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" />
-  </a>
-  <a href="https://www.facebook.com/mohamed.fawzi.562874" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-fawzy-721176268" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:m07amed1st@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  [<img src="https://skillicons.dev/icons?i=discord" width="40" />](https://discord.gg/yourserver)
+  [<img src="https://skillicons.dev/icons?i=whatsapp" width="40" />](https://wa.me/01157902453)
+  [<img src="https://skillicons.dev/icons?i=facebook" width="40" />](https://www.facebook.com/mohamed.fawzi.562874)
+  [<img src="https://skillicons.dev/icons?i=linkedin" width="40" />](https://www.linkedin.com/in/mohamed-fawzy-721176268)
+  [<img src="https://skillicons.dev/icons?i=gmail" width="40" />](mailto:m07amed1st@gmail.com)
+</p>
+
 </p>
 ---
 
