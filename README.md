@@ -9,12 +9,13 @@
 </p>
 
 ---
-
-<h2 align="center" style="background: linear-gradient(270deg, #6C63FF, #FF6C63, #6C63FF); background-size: 600% 600%; -webkit-background-clip: text; color: transparent; animation: gradient 8s ease infinite;">🌟 About Me</h2>
-<p align="center">
-  Passionate about building scalable apps with clean architecture.<br>
-  Interested in AI 🤖, Mobile 📱, and Web 🌍.<br>
-  🌱 Currently learning <b>AI with Flutter</b> | 🎯 2025 Goal: Build a cross-platform AI-powered app | 💡 Fun fact: I debug faster with coffee ☕
+<h2 align="center">🌟 About Me</h2>
+<p align="center" style="max-width: 700px; line-height: 1.8;">
+  👨‍💻 <b>Passionate Developer:</b> Building scalable apps with clean architecture.<br>
+  🤖 <b>Interests:</b> AI, Mobile & Web.<br>
+  🌱 <b>Currently Learning:</b> <b>AI with Flutter</b><br>
+  🎯 <b>2025 Goal:</b> Build a cross-platform AI-powered app.<br>
+  ☕ <b>Fun Fact:</b> I debug faster with coffee.
 </p>
 
 ---
@@ -48,11 +49,6 @@
   <a href="https://github.com/Mo7amed-Fawzy/chat-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo7amed-Fawzy&repo=chat-app&theme=tokyonight" />
   </a>
-</p>
-<p align="center">
-  <b>Project Descriptions:</b><br>
-  - <b>AI Movie App:</b> Flutter app leveraging AI for movie recommendations.<br>
-  - <b>Chat App:</b> Real-time chat application using Flutter + Firebase.
 </p>
 
 ---
@@ -92,10 +88,4 @@
 
 ⭐️ From [Mo7amed-Fawzy](https://github.com/Mo7amed-Fawzy)
 
-<style>
-@keyframes gradient {
-    0% {background-position:0% 50%}
-    50% {background-position:100% 50%}
-    100% {background-position:0% 50%}
-}
-</style>
+
