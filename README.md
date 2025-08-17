@@ -4,6 +4,10 @@
   🚀 Software Engineer | 💻 Flutter Developer | 🌐 Web Enthusiast
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&lines=Software+Engineer;Flutter+Developer;Web+Enthusiast;Clean+Architecture+Lover" />
+</p>
+
 ---
 
 <h2 align="center">🌟 About Me</h2>
@@ -37,6 +41,19 @@
 
 ---
 
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/Mo7amed-Fawzy/ai-movie-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo7amed-Fawzy&repo=ai-movie-app&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Mo7amed-Fawzy/chat-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo7amed-Fawzy&repo=chat-app&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mo7amed-Fawzy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -44,6 +61,17 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mo7amed-Fawzy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mo7amed-Fawzy&theme=tokyo-night" />
+</p>
+
+---
+
+<h2 align="center">🌱 Currently Learning & Fun Facts</h2>
+
+- 🌱 I’m currently learning **AI with Flutter**  
+- 💡 Fun fact: I debug faster with coffee ☕  
+- 🎯 2025 Goal: Build a cross-platform AI-powered app  
 
 ---
 
@@ -55,3 +83,7 @@
   <a href="https://www.linkedin.com/in/mohamed-fawzy-721176268" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:m07amed1st@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
+
+---
+
+⭐️ From [Mo7amed-Fawzy](https://github.com/Mo7amed-Fawzy)
