@@ -1,44 +1,208 @@
-<h1 align="center">👋 Hi, I'm Mohamed Fawzy</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Skills Portfolio</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
+  <style>
+    body {
+      background: #121212;
+      color: #fff;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .section-title {
+      font-size: 2rem;
+      font-weight: bold;
+      margin-bottom: 20px;
+      text-transform: uppercase;
+      color: #f39c12;
+    }
+    .card {
+      background: #1e1e1e;
+      border: none;
+      border-radius: 15px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .card:hover {
+      transform: translateY(-10px);
+      box-shadow: 0 10px 25px rgba(243, 156, 18, 0.4);
+    }
+    .icon {
+      font-size: 2.5rem;
+      color: #f39c12;
+      margin-bottom: 10px;
+    }
+    .contact-icons a {
+      font-size: 2rem;
+      margin: 0 15px;
+      color: #f39c12;
+      transition: color 0.3s ease;
+    }
+    .contact-icons a:hover {
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
 
-<p align="center">
-  🚀 Software Engineer | 💻 Flutter Developer | 🌐 Web Enthusiast
-</p>
+  <div class="container py-5">
 
----
+    <!-- Frontend Section -->
+    <h2 class="section-title">Frontend</h2>
+    <div class="row g-4">
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fab fa-html5 icon"></i>
+          <h5>HTML5</h5>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fab fa-css3-alt icon"></i>
+          <h5>CSS3</h5>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fab fa-js icon"></i>
+          <h5>JavaScript</h5>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fab fa-bootstrap icon"></i>
+          <h5>Bootstrap</h5>
+        </div>
+      </div>
+    </div>
 
-<h2 align="center">🌟 About Me</h2>
+    <!-- Backend Section -->
+    <h2 class="section-title mt-5">Backend</h2>
+    <div class="row g-4">
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fab fa-node-js icon"></i>
+          <h5>Node.js</h5>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fa-solid fa-server icon"></i>
+          <h5>Express.js</h5>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fa-solid fa-rotate-right icon"></i>
+          <h5>Nodemon</h5>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fas fa-database icon"></i>
+          <h5>MongoDB</h5>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fab fa-google icon"></i>
+          <h5>Firebase</h5>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fas fa-cloud icon"></i>
+          <h5>Supabase</h5>
+        </div>
+      </div>
+    </div>
 
-<p align="center">
-  Passionate about building scalable apps with clean architecture.  
-  Interested in AI 🤖, Mobile 📱, and Web 🌍.  
-</p>
+    <!-- Flutter Section -->
+    <h2 class="section-title mt-5">Flutter</h2>
+    <div class="row g-4">
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fab fa-dart icon"></i>
+          <h5>Dart</h5>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fa-brands fa-android icon"></i>
+          <h5>Flutter</h5>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fas fa-plug icon"></i>
+          <h5>API</h5>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fas fa-layer-group icon"></i>
+          <h5>State Management</h5>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fas fa-mobile-alt icon"></i>
+          <h5>Responsive UI</h5>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fas fa-database icon"></i>
+          <h5>Local Storage</h5>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fas fa-archway icon"></i>
+          <h5>Clean Arch</h5>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fas fa-project-diagram icon"></i>
+          <h5>MVVM</h5>
+        </div>
+      </div>
+    </div>
 
----
+    <!-- Tools Section -->
+    <h2 class="section-title mt-5">Tools</h2>
+    <div class="row g-4">
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fab fa-github icon"></i>
+          <h5>GitHub</h5>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fab fa-figma icon"></i>
+          <h5>Figma</h5>
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <div class="card p-3">
+          <i class="fab fa-xing icon"></i>
+          <h5>Adobe XD</h5>
+        </div>
+      </div>
+    </div>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+    <!-- Contact Section -->
+    <h2 class="section-title mt-5">Contact With Me</h2>
+    <div class="contact-icons text-center">
+      <a href="https://wa.me/201234567890" target="_blank"><i class="fab fa-whatsapp"></i></a>
+      <a href="https://facebook.com/yourusername" target="_blank"><i class="fab fa-facebook"></i></a>
+      <a href="https://discord.gg/yourserver" target="_blank"><i class="fab fa-discord"></i></a>
+    </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,bloc,androidstudio,vscode,html,css,js,git,github,figma" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mo7amed-Fawzy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mo7amed-Fawzy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<h2 align="center">📫 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mo7amed-fawzy"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:mo7amed.fawzy@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/Mo7amed-Fawzy"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
+  </div>
+</body>
+</html>
