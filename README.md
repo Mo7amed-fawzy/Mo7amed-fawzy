@@ -46,8 +46,8 @@
   <a href="https://github.com/Mo7amed-Fawzy/ai-movie-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo7amed-Fawzy&repo=ai-movie-app&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Mo7amed-Fawzy/chat-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo7amed-Fawzy&repo=chat-app&theme=tokyonight" />
+  <a href="https://github.com/Mo7amed-fawzy/E-commerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo7amed-Fawzy&repo=E-commerce&theme=tokyonight" />
   </a>
 </p>
 
